@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VOLEMUS]]></title>
+        <description><![CDATA[VOLEMUS]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 17:22:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Let's fly on the wings of music...]]></title>
+            <description><![CDATA[<article><h1>Let's fly on the wings of music...</h1><h2>VOLEMUS is a platform for improvisation and creation as a starting point for music-making. Finding the source of creativity in the inner self, and using it... Searching for all kinds of methods and systems to make this process possible...</h2><p>Marnix De Cat is the inspirator of the centre. Starting from the improvisation-techniques from the Renaissance Polyphony, over Classical, Jazz and all other kinds of music.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c3718aa5ca86e45e75ff0257e96d53f66a55516.jpg"></article>]]></description>
+            <link>undefinedinfo/index.html</link>
+            <guid isPermaLink="false">16ef59f0-1187-407a-a98f-7b1e69a17bc0</guid>
+            <pubDate>Tue, 02 Feb 2016 17:22:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
