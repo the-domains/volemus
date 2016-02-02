@@ -1,7 +1,7 @@
 name: VOLEMUS
 favicon: null
 layout_spectrum: 0.8798842607066035
-typography_spectrum: 0.12990926369093359
+typography_spectrum: 0.0858
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.8727876141201705
-  lightness: 0.4817513208836317
+  lightness: 1
   saturation: 0.2700231093913317
-  rhythmicContrast: 0.20121998549439013
+  rhythmicContrast: 0.25
 purpose: []
