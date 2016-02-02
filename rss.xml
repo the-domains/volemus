@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[VOLEMUS]]></title>
         <description><![CDATA[VOLEMUS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/volemus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 13:48:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 13:58:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/volemus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[VOLEMUS]]></title>
-            <description><![CDATA[<article><h1>VOLEMUS</h1><h2>...on the wings of music...</h2></article>]]></description>
-            <link>undefinedvolemus/index.html</link>
+            <description><![CDATA[<article><h1>VOLEMUS</h1><h2>...on the wings of music...</h2><p>The centre for Living music, Flanders, wants to be a platform for improvisation and creation as a starting point for music-making. Finding the source of creativity in the inner self, and using it... Searching for all kinds of methods and systems to make this process possible...</p></article>]]></description>
+            <link>https://thegrid.ai/volemus/volemus/index.html</link>
             <guid isPermaLink="false">16ef59f0-1187-407a-a98f-7b1e69a17bc0</guid>
-            <pubDate>Tue, 02 Feb 2016 13:48:23 GMT</pubDate>
+            <pubDate>Tue, 02 Feb 2016 13:57:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
