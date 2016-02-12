@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T15:29:56.837Z'
-dateModified: '2016-02-12T15:29:52.253Z'
+datePublished: '2016-02-12T15:31:44.889Z'
+dateModified: '2016-02-12T15:31:42.050Z'
 title: Marnix De Cat
 author: []
 sourcePath: _posts/2016-02-12-marnix-de-cat.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: marnix-de-cat/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Marnix De Cat
@@ -27,6 +27,6 @@ _type: Article
 
 is the creator and inspirator of the centre of Living Music : VOLEMUS.
 
-[Here you can to his personal website][0].
+[Here you can go to his personal website][0].
 
 [0]: http://thegrid.ai/marnix-de-cat
