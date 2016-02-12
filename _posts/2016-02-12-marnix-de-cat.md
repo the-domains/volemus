@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T15:27:20.808Z'
-dateModified: '2016-02-12T15:27:17.579Z'
+datePublished: '2016-02-12T15:29:56.837Z'
+dateModified: '2016-02-12T15:29:52.253Z'
 title: Marnix De Cat
 author: []
 sourcePath: _posts/2016-02-12-marnix-de-cat.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: marnix-de-cat/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Marnix De Cat
