@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T15:31:44.889Z'
-dateModified: '2016-02-12T15:31:42.050Z'
+datePublished: '2016-02-17T16:04:05.110Z'
+dateModified: '2016-02-17T15:16:25.770Z'
 title: Marnix De Cat
 author: []
 sourcePath: _posts/2016-02-12-marnix-de-cat.md
