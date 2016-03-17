@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'is the creator and inspirator of the centre of Living Music : VOLEMUS.'
-datePublished: '2016-03-17T00:20:03.103Z'
-dateModified: '2016-03-17T00:18:51.349Z'
+datePublished: '2016-03-17T00:20:26.047Z'
+dateModified: '2016-03-17T00:20:08.696Z'
 title: Marnix De Cat
 author: []
 sourcePath: _posts/2016-02-12-marnix-de-cat.md
