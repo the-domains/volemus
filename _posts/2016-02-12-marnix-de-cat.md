@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-17T16:04:05.110Z'
-dateModified: '2016-02-17T15:16:25.770Z'
+description: 'is the creator and inspirator of the centre of Living Music : VOLEMUS.'
+datePublished: '2016-03-17T00:20:03.103Z'
+dateModified: '2016-03-17T00:18:51.349Z'
 title: Marnix De Cat
 author: []
 sourcePath: _posts/2016-02-12-marnix-de-cat.md
@@ -27,6 +27,6 @@ _type: WebPage
 
 is the creator and inspirator of the centre of Living Music : VOLEMUS.
 
-[Here you can go to his personal website][0].
+[Here you can go to his personal website][0] : www.marnixdecat.be
 
-[0]: http://thegrid.ai/marnix-de-cat
+[0]: http://www.marnixdecat.be/
