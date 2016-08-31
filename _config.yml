@@ -1,8 +1,30 @@
-name: VOLEMUS
-favicon: null
-layout_spectrum: 0.5106383
 typography_spectrum: 0.61243
-title: volemus
+color:
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#c1d133'
+    - '#7d694b'
+    - '#3aa7d7'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5106383
+analytics:
+  google: UA-81238804-1
+  facebook: null
+  twitter: null
+name: VOLEMUS
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-81238804-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#c1d133'
-    - '#7d694b'
-    - '#3aa7d7'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0.25
+title: volemus
+description: centre for living music
 purpose: []
